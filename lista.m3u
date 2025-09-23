@@ -399,9 +399,7 @@ https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (2)
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (1)
-https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (2)
+#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://daddylive.sx/stream/stream-854.php
@@ -495,8 +493,6 @@ https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://daddylive.sx/stream/stream-877.php
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -541,9 +537,7 @@ https://daddylive.sx/stream/stream-875.php
 https://daddylive.sx/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (3)
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://daddylive.sx/stream/stream-462.php
@@ -633,10 +627,8 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -767,8 +759,6 @@ https://daddylive.sx/stream/stream-864.php
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddylive.sx/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -885,10 +875,8 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA (2)
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (1)
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
@@ -954,7 +942,7 @@ https://daddylive.sx/stream/stream-23.php
 #EXTINF:-1 tvg-id="italyseriecpianesevsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)" tvg-logo="https://www.stradadelvino.arezzo.it/wp-content/uploads/2019/02/logo_strada.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Pianese vs Arezzo (18:30)
 https://daddylive.sx/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://logodetimes.com/times/juventus/logo-juventus-8192.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
+#EXTINF:-1 tvg-id="italyseriecjuventusiivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)" tvg-logo="https://fastpng.com/images/file/juventus-logo-png-9o9rjqann4ojt6ua.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Juventus II vs Sassari Torres (18:30)
 https://daddylive.sx/stream/stream-24.php
 
 #EXTINF:-1 tvg-id="italyseriecbravslivorno" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Livorno.png" group-title="Eventi Live",All Soccer Events | Italy - Serie C : Bra vs Livorno (20:45)
@@ -978,10 +966,10 @@ https://daddylive.sx/stream/stream-460.php
 #EXTINF:-1 tvg-id="coppaitaliamilanvslecce" tvg-name="All Soccer Events | Coppa Italia : Milan vs Lecce (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Lecce.png" group-title="Eventi Live",All Soccer Events | Coppa Italia : Milan vs Lecce (21:00)
 https://daddylive.sx/stream/stream-8.php
 
-#EXTINF:-1 tvg-id="atp250chengduatp250hangzhou" tvg-name="Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live",Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)
+#EXTINF:-1 tvg-id="atp250chengduatp250hangzhou" tvg-name="Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)" tvg-logo="https://i.pinimg.com/originals/81/08/f5/8108f520b0dc198dae650fc2590c4d55.png" group-title="Eventi Live",Tennis | ATP 250 Chengdu, ATP 250 Hangzhou (13:00)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://res.cloudinary.com/dk-hub/image/upload/q_81,w_1280,c_limit,f_auto/dk-core-nonprod/000-upload/tv1ak8v8dke2krgtwlk7.png" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
+#EXTINF:-1 tvg-id="tokyoatpbeijingwta1stround" tvg-name="Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)" tvg-logo="https://www.phenomenalglobe.com/wp-content/uploads/2019/12/Tokyo-Tower-at-night.jpg" group-title="Eventi Live",Tennis | Tokyo-ATP & Beijing-WTA 1st Round (04:00)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="juniorworldchampionshipstimetrialfkigalikigali18km" tvg-name="Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
@@ -990,13 +978,13 @@ https://daddylive.sx/stream/stream-882.php
 #EXTINF:-1 tvg-id="juniorworldchampionshipstimetrialfkigalikigali18km" tvg-name="Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championships – Time Trial (F) Kigali – Kigali (18km) (10:40)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="juniorworldchampionshiptimetrialmkigalikigali23km" tvg-name="Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://event-assets.gsma.com/Logos/logo-mwc-gsma-300x300-optimised.png" group-title="Eventi Live",Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
+#EXTINF:-1 tvg-id="juniorworldchampionshiptimetrialmkigalikigali23km" tvg-name="Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
 https://daddylive.sx/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="juniorworldchampionshiptimetrialmkigalikigali23km" tvg-name="Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://event-assets.gsma.com/Logos/logo-mwc-gsma-300x300-optimised.png" group-title="Eventi Live",Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
+#EXTINF:-1 tvg-id="juniorworldchampionshiptimetrialmkigalikigali23km" tvg-name="Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)" tvg-logo="https://kigaliairporttransfers.com/wp-content/uploads/2022/12/get-logo-whatsapp-png-pictures-1.png" group-title="Eventi Live",Cycling | Junior World Championship – Time Trial (M) Kigali – Kigali (23km) (14:00)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="uefafutsaleuroqualificationkazakhstanvsitaly" tvg-name="Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)" tvg-logo="http://foundtheworld.com/wp-content/uploads/2014/07/Venice-Italy-9.jpg" group-title="Eventi Live",Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)
+#EXTINF:-1 tvg-id="uefafutsaleuroqualificationkazakhstanvsitaly" tvg-name="Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kazakhstan_vs_Italy.png" group-title="Eventi Live",Futsal | UEFA Futsal EURO Qualification : Kazakhstan vs. Italy (16:30)
 https://daddylive.sx/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="fivbworldchampionshiptunisiavsczechrepublic" tvg-name="Volleyball | FIVB World Championship : Tunisia vs Czech Republic (09:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tunisia_vs_Czech Republic.png" group-title="Eventi Live",Volleyball | FIVB World Championship : Tunisia vs Czech Republic (09:30)
@@ -1005,7 +993,7 @@ https://daddylive.sx/stream/stream-877.php
 #EXTINF:-1 tvg-id="fivbworldchampionshipserbiavsiran" tvg-name="Volleyball | FIVB World Championship : Serbia vs Iran (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Serbia_vs_Iran.png" group-title="Eventi Live",Volleyball | FIVB World Championship : Serbia vs Iran (14:00)
 https://daddylive.sx/stream/stream-877.php
 
-#EXTINF:-1 tvg-id="3mspringboardsynchromixfinal" tvg-name="Water Sports | 3m Springboard Synchro Mix Final (08:00)" tvg-logo="https://purepng.com/public/uploads/large/purepng.com-3m-logologobrand-logoiconslogos-251519940406sci7r.png" group-title="Eventi Live",Water Sports | 3m Springboard Synchro Mix Final (08:00)
+#EXTINF:-1 tvg-id="3mspringboardsynchromixfinal" tvg-name="Water Sports | 3m Springboard Synchro Mix Final (08:00)" tvg-logo="https://i.pinimg.com/originals/04/ff/e3/04ffe3f9476b730c1d859736783af810.png" group-title="Eventi Live",Water Sports | 3m Springboard Synchro Mix Final (08:00)
 https://daddylive.sx/stream/stream-462.php
 
 
