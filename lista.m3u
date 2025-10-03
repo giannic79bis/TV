@@ -85,16 +85,12 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddylive.sx/stream/stream-855.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
@@ -319,8 +315,6 @@ https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -389,18 +383,20 @@ https://daddylive.sx/stream/stream-859.php
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://daddylive.sx/stream/stream-867.php
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
 https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://daddylive.sx/stream/stream-866.php
-#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
-https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddylive.sx/stream/stream-865.php
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddylive.sx/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddylive.sx/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -624,7 +620,7 @@ https://daddylive.sx/stream/stream-870.php
 #EXTINF:-1 tvg-id="2025rolexshanghaimasterstennisearlyroundcoverageday3" tvg-name="Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)" tvg-logo="https://obj.shine.cn/files/2017/09/18/079e2141-ea35-4452-a245-7a226a16de77_0.png" group-title="Eventi Live",Tennis | 2025 Rolex Shanghai Masters Tennis Early Round Coverage, Day 3 (06:30)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiafreepractice1" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiafreepractice1" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)" tvg-logo="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/2422d558-8442-453f-aec1-fb20d02f72d6/original.png" group-title="Eventi Live",Motorsport | Moto 3 : Greek Grand Prix of Indonesia Free Practice 1 (02:55)
 https://daddylive.sx/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiafreepractice" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Free Practice (03:00)
@@ -633,7 +629,7 @@ https://daddylive.sx/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiafreepractice1" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Motorsport | Moto 2 : Greek Grand Prix of Indonesia Free Practice 1 (03:45)
 https://daddylive.sx/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiapractice1" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://s3.sky.ch/img/images/competition/logo/508.png" group-title="Eventi Live",Motorsport | Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofindonesiapractice1" tvg-name="Motorsport | Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)" tvg-logo="https://images.teamtailor-cdn.com/images/s3/teamtailor-production/gallery_picture-v6/image_uploads/2422d558-8442-453f-aec1-fb20d02f72d6/original.png" group-title="Eventi Live",Motorsport | Moto 3 : Greek Grand Prix of Indonesia Practice 1 (07:10)
 https://daddylive.sx/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2greekgrandprixofindonesiapractice1" tvg-name="Motorsport | Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/2/promo-moto-logo-png_seeklogo-410858.png?v=1957666023356010152" group-title="Eventi Live",Motorsport | Moto 2 : Greek Grand Prix of Indonesia Practice 1 (08:00)
@@ -642,19 +638,19 @@ https://daddylive.sx/stream/stream-575.php
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofindonesiapractice1" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Indonesia Practice 1 (07:15)
 https://daddylive.sx/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice1" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 1 (11:30)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
+#EXTINF:-1 tvg-id="formula1siasingaporegrandprixpractice2" tvg-name="Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/04/F1-Formula-One-Logo.png" group-title="Eventi Live",Motorsport | Formula 1 : SIA Singapore Grand Prix - Practice 2 (15:00)
 https://daddylive.sx/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="seriea2mestrevsbalturcento" tvg-name="Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mestre_vs_Baltur Cento.png" group-title="Eventi Live",Basketball | Serie A2 : Mestre vs Baltur Cento (20:55)
 https://daddylive.sx/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://www.erome.fr/wp-content/uploads/2023/02/logo-drome.png" group-title="Eventi Live",Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
+#EXTINF:-1 tvg-id="2025europeanroadchampionshipsmixedteamtimetrialfromdromeardeche" tvg-name="Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)" tvg-logo="https://uspr.fr/wp-content/uploads/2022/07/Logo-District-600x669.png" group-title="Eventi Live",Cycling | 2025 European Road Championships - Mixed Team Time Trial (from Drome-Ardeche) (11:00)
 https://daddylive.sx/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="croracestage4menkrklabin1875km" tvg-name="Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cro-Magnon_migration.gif/500px-Cro-Magnon_migration.gif" group-title="Eventi Live",Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
+#EXTINF:-1 tvg-id="croracestage4menkrklabin1875km" tvg-name="Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)" tvg-logo="https://rabac-labin.com/wp-content/uploads/2024/04/Screenshot-2024-04-11-at-12.55.32-768x458.png" group-title="Eventi Live",Cycling | Cro Race | Stage 4 Men | Krk – Labin (187.5km) (14:00)
 https://daddylive.sx/stream/stream-879.php
 
 
