@@ -367,6 +367,8 @@ https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
+https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
@@ -612,15 +614,6 @@ https://daddylive.sx/stream/stream-870.php
 
 #EXTINF:-1 tvg-id="friendlyenglandvswales" tvg-name="Soccer | Friendly : England vs Wales (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Wales.png" group-title="Eventi Live",Soccer | Friendly : England vs Wales (20:45)
 https://daddylive.sx/stream/stream-462.php
-
-#EXTINF:-1 tvg-id="shanghaiatpquarterfinal2wuhanwta3rdround" tvg-name="Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Shanghai-ATP Quarterfinal 2; Wuhan-WTA 3rd Round (12:30)
-https://daddylive.sx/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="xiangrandprixround3" tvg-name="Snooker | Xi'an Grand Prix | Round 3 (13:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/017/178/060/large_2x/round-three-sports-logo-for-boxing-or-football-tournament-on-transparent-background-free-png.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 3 (13:30)
-https://daddylive.sx/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="granpiemontemendoglianiacquiterme179km" tvg-name="Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)" tvg-logo="https://legaciclismoprof.org/wp-content/uploads/2025/02/Gran-Piemonte-scaled.png" group-title="Eventi Live",Cycling | Gran Piemonte Men | Dogliani - Acqui Terme (179km) (14:15)
-https://daddylive.sx/stream/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas
