@@ -129,6 +129,8 @@ https://vavoo.to/vavoo-iptv/play/217875329778328d42d121
 https://vavoo.to/vavoo-iptv/play/280418908527b8c8187a0b
 #EXTINF:-1 tvg-id="qvc.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC
 https://vavoo.to/vavoo-iptv/play/2952884641015b63f29238
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -515,8 +517,6 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://daddylive.sx/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://daddylive.sx/stream/stream-860.php
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -620,13 +620,13 @@ https://daddylive.sx/stream/stream-106.php
 #EXTINF:-1 tvg-id="worldcupqualifyinggermanyvsluxembourg" tvg-name="All Soccer Events | World Cup Qualifying : Germany vs Luxembourg (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Luxembourg.png" group-title="Eventi Live",All Soccer Events | World Cup Qualifying : Germany vs Luxembourg (20:45)
 https://daddylive.sx/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswta" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tennisconnected.com/wp-content/uploads/2024/01/Cincinnati-Open_Logo_01-Primary-RGB-1-2048x2048-1.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
+#EXTINF:-1 tvg-id="2025dongfengvoyahwuhanopentenniswta" tvg-name="Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)" tvg-logo="https://tv-sports.fr/photos/sport/competitions/680.png" group-title="Eventi Live",Tennis | 2025 Dongfeng Voyah Wuhan Open Tennis WTA (13:00)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="xiangrandprixround4" tvg-name="Snooker | Xi'an Grand Prix | Round 4 (08:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 4 (08:00)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="xiangrandprixround4" tvg-name="Snooker | Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 4 (13:30)
+#EXTINF:-1 tvg-id="xiangrandprixround4" tvg-name="Snooker | Xi'an Grand Prix | Round 4 (13:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Grand_Prix_Stern_Logo.png/revision/latest/scale-to-width-down/1200?cb=20251004222526" group-title="Eventi Live",Snooker | Xi'an Grand Prix | Round 4 (13:30)
 https://daddylive.sx/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitemontsainteanne" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Mont-Sainte-Anne (22:00)
