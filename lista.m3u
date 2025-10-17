@@ -285,6 +285,8 @@ https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (D)
 https://daddylive.sx/stream/stream-856.php
+#EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34
+https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (1)
 https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (2)
@@ -319,6 +321,8 @@ https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
+https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -387,8 +391,6 @@ https://daddylive.sx/stream/stream-577.php
 https://daddylive.sx/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -493,12 +495,16 @@ https://daddylive.sx/stream/stream-859.php
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://daddylive.sx/stream/stream-867.php
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://daddylive.sx/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddylive.sx/stream/stream-865.php
+#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
+https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddylive.sx/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -513,6 +519,8 @@ https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 https://daddylive.sx/stream/stream-863.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10
+https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3
@@ -613,7 +621,7 @@ https://daddylive.sx/stream/stream-108.php
 #EXTINF:-1 tvg-id="franceligue1psgvsstrasbourg" tvg-name="All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Strasbourg.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)
 https://daddylive.sx/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/images/62668e752c88722059d586e7.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://theme.tabellen.se/img/league-logos/tennis/png/tennis-5401.png?v=18" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)
@@ -631,10 +639,10 @@ https://daddylive.sx/stream/stream-878.php
 #EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 https://daddylive.sx/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.758da5c1-fc47-419f-9e58-bcd2ee6acccd/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 https://daddylive.sx/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230811/original/pngtree-vector-illustration-of-a-speed-ice-skating-logo-featuring-text-space-for-your-slogan-or-tagline-vector-picture-image_10300771.png" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
+#EXTINF:-1 tvg-id="figureskatingfrenchgrandprixpairsshortprogram" tvg-name="Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/event_logo/public/media-library/2025 US Champs logo.png?itok=7ul1B5rr" group-title="Eventi Live",Ice Skating | Figure Skating: French Grand Prix Pairs Short Program (20:00)
 https://daddylive.sx/stream/stream-879.php
 
 
