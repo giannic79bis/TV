@@ -5,8 +5,6 @@
 https://vavoo.to/vavoo-iptv/play/160013981909ce6c338fef
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Altro",ANIMAL PLANET
-https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
@@ -93,8 +91,6 @@ https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://daddylive.sx/stream/stream-855.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
@@ -147,6 +143,8 @@ https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
@@ -333,8 +331,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
-https://vavoo.to/vavoo-iptv/play/1907000512776efa40e32a
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (BACKUP)
 https://vavoo.to/vavoo-iptv/play/217871728282294e996afe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
@@ -391,6 +387,8 @@ https://daddylive.sx/stream/stream-577.php
 https://daddylive.sx/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
+#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
+https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -503,8 +501,6 @@ https://daddylive.sx/stream/stream-866.php
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://daddylive.sx/stream/stream-865.php
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://daddylive.sx/stream/stream-864.php
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -621,13 +617,13 @@ https://daddylive.sx/stream/stream-108.php
 #EXTINF:-1 tvg-id="franceligue1psgvsstrasbourg" tvg-name="All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Strasbourg.png" group-title="Eventi Live",All Soccer Events | France - Ligue 1 : PSG vs Strasbourg (20:45)
 https://daddylive.sx/stream/stream-462.php
 
-#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://theme.tabellen.se/img/league-logos/tennis/png/tennis-5401.png?v=18" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
+#EXTINF:-1 tvg-id="brusselsatpstockholmatpalmatyatposakawtaningbowtaearlyrounds" tvg-name="Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live",Tennis | Brussels-ATP, Stockholm-ATP, Almaty-ATP, Osaka-WTA & Ningbo-WTA Early Rounds (12:30)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)
+#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgppractice1" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Practice 1 (19:30)
 https://daddylive.sx/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgpsprintqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Sprint Qualifying (23:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/formula-1-logo-png_seeklogo-330361.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Sprint Qualifying (23:30)
+#EXTINF:-1 tvg-id="formula1msccruisesunitedstatesgpsprintqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises United States GP - Sprint Qualifying (23:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : MSC Cruises United States GP - Sprint Qualifying (23:30)
 https://daddylive.sx/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="moto3australiangrandprixfreepractice2" tvg-name="Motorsport | Moto3 : Australian Grand Prix, Free Practice 2 (23:35)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Australian Grand Prix, Free Practice 2 (23:35)
@@ -636,7 +632,7 @@ https://daddylive.sx/stream/stream-575.php
 #EXTINF:-1 tvg-id="tourofhollandstage3mensittardwatersley154km" tvg-name="Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-amsterdam-the-capital-of-holland-sign-tour-pictogram-vector-picture-image_9725402.png" group-title="Eventi Live",Cycling | Tour of Holland | Stage 3 Men | Sittard – Watersley (154km) (13:45)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
+#EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.758da5c1-fc47-419f-9e58-bcd2ee6acccd/1/BOXART-16X9/en-US._UR1920,1080_SX500_FMpng_.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
 https://daddylive.sx/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="grandprixfrancewomensindividualshortprogram" tvg-name="Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Ice Skating | Grand Prix France | Women's Individual Short Program (18:00)
